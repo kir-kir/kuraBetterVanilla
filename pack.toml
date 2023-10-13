@@ -1,5 +1,6 @@
-name = "k"
-version = "1.0.0"
+name = "KuraBetterVanilla"
+author = "Kira"
+version = "1.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -8,6 +9,5 @@ hash-format = "sha256"
 hash = "b44f8697e3bab44e8f6c03e43dfe60112f9bbf83d15bde0b3e48f6d566b253a9"
 
 [versions]
-fabric = "0.14.23"
 forge = "47.1.3"
 minecraft = "1.20.1"
