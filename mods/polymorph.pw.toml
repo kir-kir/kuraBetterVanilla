@@ -1,0 +1,13 @@
+name = "Polymorph"
+filename = "polymorph-forge-0.49.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/bIDSNOm5/polymorph-forge-0.49.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "f5a055f40d7dd6bb7af7db80afe3008913a6e3d4"
+
+[update]
+[update.modrinth]
+mod-id = "tagwiZkJ"
+version = "bIDSNOm5"

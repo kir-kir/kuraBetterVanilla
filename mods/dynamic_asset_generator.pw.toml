@@ -1,0 +1,13 @@
+name = "Dynamic Asset Generator"
+filename = "dynamicassetgenerator-forge-1.20.1-4.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/83pFEQVb/versions/phngtMmx/dynamicassetgenerator-forge-1.20.1-4.2.1.jar"
+hash-format = "sha1"
+hash = "4639d3dfdb4754ef5773da0685834daf46afdc21"
+
+[update]
+[update.modrinth]
+mod-id = "83pFEQVb"
+version = "phngtMmx"

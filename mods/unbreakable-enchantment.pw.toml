@@ -1,0 +1,13 @@
+name = "Unbreakable Enchantment"
+filename = "AbsolutelyUnbreakable-2.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kPSbQBOY/versions/csl9uMoK/AbsolutelyUnbreakable-2.0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "0465dee428efc927a420c3760428cd34336502e1"
+
+[update]
+[update.modrinth]
+mod-id = "kPSbQBOY"
+version = "csl9uMoK"

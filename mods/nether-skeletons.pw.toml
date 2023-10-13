@@ -1,0 +1,13 @@
+name = "Nether Skeletons"
+filename = "netherskeletons1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da626384f3b9e3eec7d8963669f882c7f6bc120c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4716709
+project-id = 460954

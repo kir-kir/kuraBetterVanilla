@@ -1,0 +1,13 @@
+name = "Bagus Lib"
+filename = "bagus_lib-1.20.1-4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/95nSN4Rd/versions/UJeUSKNu/bagus_lib-1.20.1-4.0.3.jar"
+hash-format = "sha1"
+hash = "51c5cb80141baa5245d843ddb537b6d38b739b5f"
+
+[update]
+[update.modrinth]
+mod-id = "95nSN4Rd"
+version = "UJeUSKNu"

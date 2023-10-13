@@ -1,0 +1,13 @@
+name = "Silver Birch"
+filename = "silver-birch-1.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PAWvEB5f/versions/D1Qc3ZAX/silver-birch-1.1.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "32a548eddb53f6ec89991b1ea307a3233ee24dc7"
+
+[update]
+[update.modrinth]
+mod-id = "PAWvEB5f"
+version = "D1Qc3ZAX"

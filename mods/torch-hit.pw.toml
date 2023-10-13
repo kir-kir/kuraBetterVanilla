@@ -1,0 +1,13 @@
+name = "Torch hit!"
+filename = "torchhit-1.20.1-6.0.1.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zTOq9jEI/versions/x3tpZ7zG/torchhit-1.20.1-6.0.1.2-forge.jar"
+hash-format = "sha1"
+hash = "91f72ecaaa31bdb21f28c2a836764dafd30c73ff"
+
+[update]
+[update.modrinth]
+mod-id = "zTOq9jEI"
+version = "x3tpZ7zG"

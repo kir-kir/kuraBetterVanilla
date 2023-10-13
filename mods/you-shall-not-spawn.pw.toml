@@ -1,0 +1,13 @@
+name = "You Shall Not Spawn!"
+filename = "YSNS-Forge-MC1.20-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EjXcpmEA/versions/BqJVrHr1/YSNS-Forge-MC1.20-1.0.4.jar"
+hash-format = "sha1"
+hash = "4e990e6a65f4655e2a6b02789ca5eb3b8c4e9ee0"
+
+[update]
+[update.modrinth]
+mod-id = "EjXcpmEA"
+version = "BqJVrHr1"

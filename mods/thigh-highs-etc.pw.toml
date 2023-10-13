@@ -1,0 +1,13 @@
+name = "Thigh highs etc."
+filename = "thigh_highs_etc-forge-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6aZTHLYT/versions/P1znpTHF/thigh_highs_etc-forge-1.0.3.jar"
+hash-format = "sha1"
+hash = "67ee698670ac1d7c227aa1eb94205907b86cb707"
+
+[update]
+[update.modrinth]
+mod-id = "6aZTHLYT"
+version = "P1znpTHF"

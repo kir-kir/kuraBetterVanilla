@@ -1,0 +1,13 @@
+name = "Colytra"
+filename = "colytra-forge-6.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ulY7WPQy/versions/s8nsxKTm/colytra-forge-6.2.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "48c4e457f21d1b3ff92cc81dd8c84dec9be203dc"
+
+[update]
+[update.modrinth]
+mod-id = "ulY7WPQy"
+version = "s8nsxKTm"

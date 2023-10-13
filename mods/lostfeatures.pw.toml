@@ -1,0 +1,13 @@
+name = "Lost Features"
+filename = "LostFeatures-0.7.2.2.1-Forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hNRL1Wry/versions/zwJjC7v8/LostFeatures-0.7.2.2.1-Forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "3e8ffbf53a96954e4e2fc25d9754a8e2f01a813d"
+
+[update]
+[update.modrinth]
+mod-id = "hNRL1Wry"
+version = "zwJjC7v8"

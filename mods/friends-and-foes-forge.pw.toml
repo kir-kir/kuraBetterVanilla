@@ -1,0 +1,13 @@
+name = "Friends&Foes (Forge)"
+filename = "friendsandfoes-forge-mc1.20.1-1.9.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BOCJKD49/versions/lbRwKCQy/friendsandfoes-forge-mc1.20.1-1.9.6.jar"
+hash-format = "sha1"
+hash = "de09c76c3b3fd70e6dd30a444e532e5c4754038a"
+
+[update]
+[update.modrinth]
+mod-id = "BOCJKD49"
+version = "lbRwKCQy"

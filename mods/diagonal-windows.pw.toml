@@ -1,0 +1,13 @@
+name = "Diagonal Windows"
+filename = "DiagonalWindows-v8.0.1-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oOi0CKes/versions/FyRULqoH/DiagonalWindows-v8.0.1-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "71e9b2e3ce2cf80cfca43a2f5c907ebf812fb249"
+
+[update]
+[update.modrinth]
+mod-id = "oOi0CKes"
+version = "FyRULqoH"

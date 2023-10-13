@@ -1,0 +1,13 @@
+name = "Euphoria Patches"
+filename = "EuphoriaPatcher-0.1.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4H6sumDB/versions/4cGyDflW/EuphoriaPatcher-0.1.1-forge.jar"
+hash-format = "sha1"
+hash = "27b4b36940800ec9372ddfdb03a73119f6fa690c"
+
+[update]
+[update.modrinth]
+mod-id = "4H6sumDB"
+version = "4cGyDflW"

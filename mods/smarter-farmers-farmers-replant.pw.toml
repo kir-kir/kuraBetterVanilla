@@ -1,0 +1,13 @@
+name = "Smarter Farmers (farmers replant)"
+filename = "smarterfarmers-1.20-1.7.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/GcGsn7L3/smarterfarmers-1.20-1.7.3.jar"
+hash-format = "sha1"
+hash = "7e5a89569223fdd15193e85a0c2795eeb3b7da0a"
+
+[update]
+[update.modrinth]
+mod-id = "Bh6ZOMvp"
+version = "GcGsn7L3"

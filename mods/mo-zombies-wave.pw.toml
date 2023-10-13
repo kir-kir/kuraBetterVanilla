@@ -1,0 +1,13 @@
+name = "Mo' Zombies Wave"
+filename = "Mo'ZombiesWave-1.20.1-0.1.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iAqn9vit/versions/fxIHHDHx/Mo%27ZombiesWave-1.20.1-0.1.0-forge.jar"
+hash-format = "sha1"
+hash = "f31b3c6d403cae4823090f351bcbe6ee97a5a99f"
+
+[update]
+[update.modrinth]
+mod-id = "iAqn9vit"
+version = "fxIHHDHx"

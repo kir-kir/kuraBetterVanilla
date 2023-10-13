@@ -1,0 +1,13 @@
+name = "Potion Blender"
+filename = "Potion-Blender-1.20-FORGE-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xe4saW9d/versions/7r3Hydft/Potion-Blender-1.20-FORGE-1.1.0.jar"
+hash-format = "sha1"
+hash = "13f8aa891e6aceea7a2c02d28433e8641d1a911c"
+
+[update]
+[update.modrinth]
+mod-id = "xe4saW9d"
+version = "7r3Hydft"

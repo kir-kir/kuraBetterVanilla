@@ -1,0 +1,13 @@
+name = "Durability101"
+filename = "Durability101-forge-1.20-0.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yt3rEMOb/versions/SSVgZl2H/Durability101-forge-1.20-0.0.4.jar"
+hash-format = "sha1"
+hash = "2b146cf6bf044e30e68a595ba336e84e3693affa"
+
+[update]
+[update.modrinth]
+mod-id = "Yt3rEMOb"
+version = "SSVgZl2H"

@@ -1,0 +1,13 @@
+name = "Some Assembly Required"
+filename = "some-assembly-required-1.20.1-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jZi8ogTA/versions/2s9bQnLS/some-assembly-required-1.20.1-4.0.0.jar"
+hash-format = "sha1"
+hash = "6be647cd6137c4fe532173f28fc7e7f00ee29964"
+
+[update]
+[update.modrinth]
+mod-id = "jZi8ogTA"
+version = "2s9bQnLS"

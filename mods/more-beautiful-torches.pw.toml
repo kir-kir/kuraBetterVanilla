@@ -1,0 +1,13 @@
+name = "More Beautiful Torches"
+filename = "morebeautifultorches-2.5.2-1.20.1_forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C341qvJ5/versions/EsPuAwk6/morebeautifultorches-2.5.2-1.20.1_forge.jar"
+hash-format = "sha1"
+hash = "8e5c352d6a8344ba6e788ff7e42f09821a75141f"
+
+[update]
+[update.modrinth]
+mod-id = "C341qvJ5"
+version = "EsPuAwk6"

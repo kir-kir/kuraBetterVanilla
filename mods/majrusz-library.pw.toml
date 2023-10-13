@@ -1,0 +1,13 @@
+name = "Majrusz Library"
+filename = "majrusz-library-1.20.1-5.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PYQD8noM/versions/mKtLE6RX/majrusz-library-1.20.1-5.1.2.jar"
+hash-format = "sha1"
+hash = "2879bd3699bdbf9ea3961ab4748b93d4e0dc532a"
+
+[update]
+[update.modrinth]
+mod-id = "PYQD8noM"
+version = "mKtLE6RX"

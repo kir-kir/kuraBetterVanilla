@@ -1,0 +1,13 @@
+name = "Consistency+"
+filename = "consistency_plus-forge-0.5.2-rc.4+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nDHcEOt3/versions/PHPb9MzT/consistency_plus-forge-0.5.2-rc.4%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "f184c4f85e0d8f0ce7fb8989f6904cf5bc6220f2"
+
+[update]
+[update.modrinth]
+mod-id = "nDHcEOt3"
+version = "PHPb9MzT"

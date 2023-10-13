@@ -1,0 +1,13 @@
+name = "Progressive Bosses"
+filename = "ProgressiveBosses-3.9.3-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zxspe0HA/versions/1RudYeQ8/ProgressiveBosses-3.9.3-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "4630ac1c3671f3397257e77018ce6e5d2d3e3027"
+
+[update]
+[update.modrinth]
+mod-id = "Zxspe0HA"
+version = "1RudYeQ8"

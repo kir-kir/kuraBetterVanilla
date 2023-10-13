@@ -1,0 +1,13 @@
+name = "BE Style Wither"
+filename = "bestylewither-forge-mc1.20-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OkmRZ5fH/versions/msU5FraE/bestylewither-forge-mc1.20-1.6.0.jar"
+hash-format = "sha1"
+hash = "9ca5180a715a788cc3488b896b723ac3ce229e3a"
+
+[update]
+[update.modrinth]
+mod-id = "OkmRZ5fH"
+version = "msU5FraE"
