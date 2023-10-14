@@ -1442,6 +1442,10 @@ file = "mods/DeepDarkEnhanced-1.0.jar"
 hash = "d3304c0f20c46b0d8276f73766d3552d2dd78f0ac55887df61dbfac222030bb8"
 
 [[files]]
+file = "mods/From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar"
+hash = "8ef12c31a661e3ffebd6e0b2a50412036e90bafbfea568869f90d716a30ab9af"
+
+[[files]]
 file = "mods/FuckOffMobs-1.0-SNAPSHOT.jar"
 hash = "9e118dfc743d2a5ab248eb0060485937701daf828386f2a9bc940f6f2e14b6d0"
 
@@ -1659,6 +1663,10 @@ metafile = true
 file = "mods/carry-on.pw.toml"
 hash = "8b71da6af72531567431cef56144077d6faf4bbaa1216011f5e18be369b5204f"
 metafile = true
+
+[[files]]
+file = "mods/cave_noise.jar"
+hash = "932ee7075f8f62927bd2e6240903d2f49fe3f5c5c05cb50179fc01ae1e90f8cf"
 
 [[files]]
 file = "mods/chefs-delight.pw.toml"
@@ -1993,11 +2001,6 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "19c2230a25a30cb19adb9a4487443e2e7ebb8a9eb58d2d4fc2e4c46f630fae53"
-metafile = true
-
-[[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "49dfc6e8737d45a945e5a91cfd19ec8e810eec40a0f8c16d19690633c440aca1"
 metafile = true
 
 [[files]]
