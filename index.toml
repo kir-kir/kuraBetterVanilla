@@ -1458,6 +1458,10 @@ file = "mods/SculkWorm-1.0.0.jar"
 hash = "be3642fb8468af788414b803f84c34312521bbc5ade3766f3d71d9dabde32f04"
 
 [[files]]
+file = "mods/SpelunkersCharm-3.4.5-1.20.1.jar"
+hash = "2a62aa2369c778383383dcffd02d0b3d51b6b313506da69a2c0ef952113d8cf0"
+
+[[files]]
 file = "mods/TheManFromTheFog-1.0.0.jar"
 hash = "3697398344802a13ba7f8a0cbf26a8d9b908e4d41fdca4f257367ba4ff90d811"
 
@@ -1667,6 +1671,11 @@ metafile = true
 [[files]]
 file = "mods/cave_noise.jar"
 hash = "932ee7075f8f62927bd2e6240903d2f49fe3f5c5c05cb50179fc01ae1e90f8cf"
+
+[[files]]
+file = "mods/charms.pw.toml"
+hash = "df8e9f131e7ed74d586ee4195443b0b989ed929f79f6a5395d55686c9de2a3d5"
+metafile = true
 
 [[files]]
 file = "mods/chefs-delight.pw.toml"
