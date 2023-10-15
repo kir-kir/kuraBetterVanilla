@@ -1639,6 +1639,11 @@ hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "90745999262576c91d5f22493d03193ba807ee00558a8d19b50873d97d732ab6"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "ff44ef23106a7d91976d4eeb51aba8eba9771b62716eff6b1f418fda2d198a6d"
 metafile = true
@@ -1656,6 +1661,11 @@ metafile = true
 [[files]]
 file = "mods/canary.pw.toml"
 hash = "1a060877e79455b31a20e165adb356a517c161eacf3ae503de2fa515e79dea0a"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
@@ -1724,12 +1734,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "52b42b063d1eef07791d259661346d0f93b749d6b238687d359caf7f04fd722e"
+hash = "3990f6490ed84eadac2cb007f71a370e8f15c10fea2fc32d031bbe4a4917b6d1"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "a7e83dc72da60784723493d0e0fcddb01ba302710b7b1b24f1c8bfdaa2eb2266"
+hash = "e9d843694c4b60ec30009d7127f242493a6c7afe639bd54e5d3b5979012c0bf7"
 metafile = true
 
 [[files]]
@@ -1884,7 +1894,7 @@ metafile = true
 
 [[files]]
 file = "mods/enderman-overhaul.pw.toml"
-hash = "e4301f4e75d0d24b646f7e76aa7d865eeac455747285362e6ddb7387c56b1fb5"
+hash = "6f909cf5a6acedcdc012672c135e131a7e99545858622fa10de5ff5d4798cb2d"
 metafile = true
 
 [[files]]
@@ -1968,6 +1978,11 @@ hash = "2f17b05ab20578102769ec7764d8c573eaf33b5d3ebc1d94fcedac31455b9252"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
+metafile = true
+
+[[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "18311cdec474d21247f33fede33ffef2ca27b715dec47b4914957a8ec59cbe6e"
 metafile = true
@@ -2009,7 +2024,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
-hash = "19c2230a25a30cb19adb9a4487443e2e7ebb8a9eb58d2d4fc2e4c46f630fae53"
+hash = "c820777d39dbd5e190a6d5e8e910d0342ecd2a2d3899ed19e587516c85515449"
 metafile = true
 
 [[files]]
@@ -2249,7 +2264,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5478cb9ce3bbb6577fe5990bb7469de913675b660f587ff9c255576461236e90"
+hash = "c46538a96fc82a5cf5a0d1f35751bc18ee59f397f73a90f25fb30613a79c2022"
 metafile = true
 
 [[files]]
@@ -2359,7 +2374,7 @@ metafile = true
 
 [[files]]
 file = "mods/philips-ruins.pw.toml"
-hash = "29caa93ed698d4f06afd16e1a4581f0954cfc263ebc8ffb90927e54cb9781453"
+hash = "74fb83d351beea1fac28959e365a78f3ebeef1a4096dd7c97a2dc4bb62cd6ac6"
 metafile = true
 
 [[files]]

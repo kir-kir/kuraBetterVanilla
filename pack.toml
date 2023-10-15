@@ -1,12 +1,12 @@
 name = "KuraBetterVanilla"
 author = "Kira"
-version = "1.2.2"
+version = "1.2.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "25b1892599d93c15053e84d02d624c662ca1cc7ebd9c2a3ec632c1767f4e9335"
+hash = "f42828346ae6f79d912399652ecc8d4eeae34d67778dae5f52786b5171132346"
 
 [versions]
 forge = "47.1.3"
