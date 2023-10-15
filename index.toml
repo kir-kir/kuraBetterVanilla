@@ -2288,6 +2288,11 @@ hash = "6037f2aba58172fba98c05f7183a4ebf80c42baf3addb52a9ddf9b7a8eac0e26"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "3d3a8cd6517c5804bd1ce2e4e05197ef40d33ed04c26b448c3eba6ac2b25321b"
+metafile = true
+
+[[files]]
 file = "mods/nerb.pw.toml"
 hash = "0619ad8e332cfb2e068e565ba9adad3bf12286c80afd93f6c90224c89d8375e1"
 metafile = true
