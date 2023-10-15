@@ -2489,6 +2489,11 @@ hash = "d0ce3234fbda795978756d663fe2159a1d55b5baa700113707f85449f5ee4679"
 metafile = true
 
 [[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "f0efdc177426bf44ed5fb111f5733dc32c6498707d241772562f77de2f2c520c"
+metafile = true
+
+[[files]]
 file = "mods/soul-fire-d.pw.toml"
 hash = "f979f233d9558a26f7131ad4d4c31f4c4d09e76f19fe82fa755bb5a5a809cd6d"
 metafile = true
