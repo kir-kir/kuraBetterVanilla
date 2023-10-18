@@ -673,6 +673,10 @@ file = "config/canary.properties"
 hash = "a37eb7f218ab61f3277a103a85c5bd14ff0abe0dff94e17883bcbb5ea28a3855"
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "55497ea1c543f6965d5dcfe1c8dc4992157c07264647b46ebc3dd8ebd91c3a11"
+
+[[files]]
 file = "config/cataclysm.toml"
 hash = "487227d5d2e74614bbb3d250eadcf9278746913638c3cba5aea8ee9e477dfe50"
 
@@ -991,6 +995,10 @@ hash = "20878c189ef2f1f752c37715496714e69a4a57f0f46233a75a61ff419e2a6d71"
 [[files]]
 file = "config/insanelib-common.toml"
 hash = "9c7a4d601a1f1f7d0630af08c49d2532bf9e514c9b0854826e28d3de67a4cb4b"
+
+[[files]]
+file = "config/itemblacklist.json"
+hash = "5f68ed6659c9b8528a17c1f6e7bc84ffce5289850677e120f985828cc89829db"
 
 [[files]]
 file = "config/itemborders-common.toml"
@@ -1515,7 +1523,7 @@ hash = "3def0d66debef6185df82f6b777ec382a59dc66da47c8f081e69cc059da1d98d"
 
 [[files]]
 file = "mods/addadd.pw.toml"
-hash = "ea4a5f7fd697978b42347e984135504a0a027c717f0f0a39da8b9ac1f97255eb"
+hash = "f52b28f008f1cc8ac84683a6c9996595018887af26e440c5593984a85f4a1c8a"
 metafile = true
 
 [[files]]
@@ -1639,6 +1647,11 @@ hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "bb31d8aad080ffa8bcc246f51772664a42f2e83f95442eab49937d2ec6b8bf1e"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "90745999262576c91d5f22493d03193ba807ee00558a8d19b50873d97d732ab6"
 metafile = true
@@ -1729,7 +1742,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "81db0a4d414b89918d4681f862f04c7aaef3e72f08f98109bcf189bf45556c74"
+hash = "fbfe78fc2ee5344d22a88a41dc69027002ac86eebf1c9401f93b22876c8f8ed3"
 metafile = true
 
 [[files]]
@@ -1745,6 +1758,11 @@ metafile = true
 [[files]]
 file = "mods/consistencyplus.pw.toml"
 hash = "f519892f53ce81a1907345164da68f05aaff8c9e34a3af4ce55f59cb951f9621"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "119a7506c39a296fc3cd7d6f874c08b2664082811ba95daf2b98f27f398fb980"
 metafile = true
 
 [[files]]
@@ -1869,12 +1887,17 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "b533c58b244a1d5ba3899bc8f9077085c06f367e8b5644353be84e204636d5d7"
+hash = "03d33a32ce06757a695427e08a09495d342470cf1028d2fcd5eb082a62f67b61"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "7364b12718ceb3dce5caf8118d8f71290efc033cff198b3131b05f75630f3d27"
 metafile = true
 
 [[files]]
 file = "mods/enchantwithmob.pw.toml"
-hash = "8c79f413037e8ed1b7286ef1d03a6e970d22b04739e26e819fbd4bcc90439cee"
+hash = "d68a568717e9fa06a3115b14bd0e22e19f73d5d8af8ef6cac13277c581240cc9"
 metafile = true
 
 [[files]]
@@ -2134,7 +2157,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "0bbad39c925661641089bc7f6a744dfff493f49c129806e7a726e0b89531a325"
+hash = "aa68fe924a2d5ee955018c961bbd91a23485a15643d6de10d8d31562ee3702fd"
 metafile = true
 
 [[files]]
@@ -2489,7 +2512,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a78de1db76195901cb6286ae14f5f504aa68fc487770b97e66a99d9c6c81dd23"
+hash = "eb1e82493caee495ac763d0e7f0a668c95c0795cbee217b921e27f1d81d1d402"
 metafile = true
 
 [[files]]
@@ -2544,7 +2567,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
-hash = "ea95207c38d019e046e827603319435194d475fbbd9c1b74e73e636e05a22d8e"
+hash = "9d0aaee3f6e0cfe7e7de44fdb75499a1acce81396ee7838eaaf19b9e63413d14"
 metafile = true
 
 [[files]]
@@ -2569,7 +2592,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8b1a32a57ef1a2929d2a002aad3ec085afada1ca19d6cfb60e0402b5bc851464"
+hash = "5066efdc5ee10982056d774a221efe268f57481605391e2e94155ced639f4f35"
 metafile = true
 
 [[files]]
@@ -2675,6 +2698,11 @@ metafile = true
 [[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "19c684f14ce6685c10bd54813367b6d958543ea8ab8e04affb15eccab81a64e1"
+metafile = true
+
+[[files]]
+file = "mods/what-are-you-voting-for-2023.pw.toml"
+hash = "bd5a429c88301603858631109cfb68f5fb5f040a525a1babe7c2f61ac4078279"
 metafile = true
 
 [[files]]
