@@ -2381,6 +2381,11 @@ hash = "dd4b02e926028150bf16b2319325d67290cd16bad81837711d9a1181ea6de833"
 metafile = true
 
 [[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "e6337ce05da7e2ca6b22265b9499b51f2d9fcd4152f87a7ca6b39c4511b7b8af"
+metafile = true
+
+[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "5304520a63731d43091412cabe6e285b5869cbe00e774b3e6e5d9327e14f8632"
 metafile = true
