@@ -2536,11 +2536,6 @@ hash = "eda371ecf088320706a5ab63dc1a2a55d1b73ac7c9054cfc4e99327784840fb8"
 metafile = true
 
 [[files]]
-file = "mods/somnia.pw.toml"
-hash = "d0ce3234fbda795978756d663fe2159a1d55b5baa700113707f85449f5ee4679"
-metafile = true
-
-[[files]]
 file = "mods/sooty-chimneys.pw.toml"
 hash = "f0efdc177426bf44ed5fb111f5733dc32c6498707d241772562f77de2f2c520c"
 metafile = true
