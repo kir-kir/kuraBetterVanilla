@@ -2681,11 +2681,6 @@ hash = "b678a084042a0f16de1d96a714f3df11a6e1917ec84fc27bf8d922aa3fd3cb78"
 metafile = true
 
 [[files]]
-file = "mods/unlit-campfire.pw.toml"
-hash = "36285026470d67a28666e3670a4ae5951ddd71b6fa93b8a68d6e065e6eb7b25d"
-metafile = true
-
-[[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "2f76f22b08f8d9761802b79b1a72da8c06b2e89ce6165e6b08b62dce2da4d621"
 metafile = true
