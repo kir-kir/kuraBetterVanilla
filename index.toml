@@ -454,7 +454,7 @@ hash = "ca31e5fc7b301b5a10d1ac0912e2d3a32e0cf9805fa78d8a61bc681067c08dfb"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "da94b2fe3992bab920dac8470c9310c75fbd3facb3af7d96b097de271a0d84ee"
+hash = "573d916f9cfa42861b619c6d6471f5343e196de0da86235d43afe65cc2755706"
 
 [[files]]
 file = "config/bagus_lib-client.toml"
@@ -1430,7 +1430,7 @@ hash = "d08fb0d6b962b3b9686c790bbe94bdd482ed8e721f8a5fda8bddf44278fc514d"
 
 [[files]]
 file = "config/ysns.json"
-hash = "605b131ad2f3db5cc295688975cd32a57eac138db4c314b79b0189b81d4c346f"
+hash = "8475e6a7c1b381dac7e7a82eafe9551538806ed089c6bbd184b785e59839f943"
 
 [[files]]
 file = "config/zillagersweararmor-client.toml"

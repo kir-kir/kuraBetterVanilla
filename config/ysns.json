@@ -1,6 +1,19 @@
 {
   "blacklisted_entities": [
-    "any_mod:example_entity",
-    "any_mod:another_example_entity"
+    "crimson_steves_mobs:pavager",
+    "crimson_steves_mobs:ender_ravager",
+    "crimson_steves_mobs:elite_ender_ravager",
+    "crimson_steves_mobs:t_rabus",
+    "crimson_steves_mobs:ravager_enderman",
+    "crimson_steves_mobs:cyborg_vindicator",
+    "crimson_steves_mobs:crude_redstone_golem",
+    "crimson_steves_mobs:minion_redstone_golem",
+    "crimson_steves_mobs:big_snow_golem",
+    "crimson_steves_mobs:creepig",
+    "crimson_steves_mobs:creeper_golem",
+    "crimson_steves_mobs:giant_illager",
+    "crimson_steves_mobs:crude_redstone_monstrosity",
+    "crimson_steves_mobs:creeckin",
+    "crimson_steves_mobs:chad_creeper_golem"
   ]
 }
