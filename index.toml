@@ -2696,11 +2696,6 @@ hash = "19c684f14ce6685c10bd54813367b6d958543ea8ab8e04affb15eccab81a64e1"
 metafile = true
 
 [[files]]
-file = "mods/what-are-you-voting-for-2023.pw.toml"
-hash = "bd5a429c88301603858631109cfb68f5fb5f040a525a1babe7c2f61ac4078279"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "22c2a89925030790e8ff327977407190e9a8ec50d2d2b04404942a70d285f0a2"
 metafile = true
