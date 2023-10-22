@@ -1,0 +1,13 @@
+name = "Sons of Sins: Wounds of Chaos"
+filename = "sons-of-sins-1.20.1-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l7YxzukZ/versions/JCcfvz6C/sons-of-sins-1.20.1-2.0.3.jar"
+hash-format = "sha1"
+hash = "3aefc550af082257114b28f65e63e0209ef3f1a0"
+
+[update]
+[update.modrinth]
+mod-id = "l7YxzukZ"
+version = "JCcfvz6C"

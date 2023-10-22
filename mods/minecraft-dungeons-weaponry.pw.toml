@@ -1,0 +1,13 @@
+name = "Dungeons Weaponry"
+filename = "dungeonsweaponry-1.14.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba7f366bd69fb7dfeea5376e2418d4ea541d5b9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4785338
+project-id = 538567

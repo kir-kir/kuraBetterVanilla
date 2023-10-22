@@ -1,0 +1,13 @@
+name = "The Farlanders"
+filename = "farlanders-1.20.1-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IaHp8Kxy/versions/yIlLmFo8/farlanders-1.20.1-1.4.1.jar"
+hash-format = "sha1"
+hash = "443234e3680a822278d4cd8aaeedebf71b101811"
+
+[update]
+[update.modrinth]
+mod-id = "IaHp8Kxy"
+version = "yIlLmFo8"

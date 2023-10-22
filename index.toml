@@ -1532,6 +1532,11 @@ hash = "5df0cd4aac992db49d4a07bf569d5283e748a5406b14816ac78ad9dc7788cf71"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "8def98458cf346640d50a73527323c34994a6b969512865421fdb03dac5cd11f"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "6b2d9d8f2a3f9b34289d9a8f96722307d9decdfbf5121c468b76238d240a91f8"
 metafile = true
@@ -1645,6 +1650,10 @@ metafile = true
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
 metafile = true
+
+[[files]]
+file = "mods/bobby-5.0.1.jar"
+hash = "7b6e8e3a4797d32de1c48cd727ddab9f31705672850b3609d019b3ae2e51a61a"
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
@@ -1991,9 +2000,8 @@ hash = "b9cca3d3bb4ff0d6cd2f397e2baf40235f869bb156970d8549448d43ba3d8229"
 metafile = true
 
 [[files]]
-file = "mods/explosive-enhancement.pw.toml"
-hash = "38ed72cfb9405c7b40079e1cc6d335806a3fc0c7f98aee04a44adacdb5452ece"
-metafile = true
+file = "mods/explosive-enhancement-1.2.2-1.20.x.jar"
+hash = "2a98b3f820b48c156e2495c28b994cf2835da172db852de6dd24bdef3b8de589"
 
 [[files]]
 file = "mods/eyes-in-the-darkness.pw.toml"
@@ -2073,6 +2081,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "8ca9b327a1fa9638cf131c48d7742cd1b64f363131516a81c1fe9630350bca9c"
+metafile = true
+
+[[files]]
+file = "mods/grimoire-of-gaia.pw.toml"
+hash = "7e33337e8df52c49f2ca361014bdde3b7d5db7ecb8977024530795804de584fe"
 metafile = true
 
 [[files]]
@@ -2241,9 +2254,12 @@ hash = "6838240b825c5b2f362ed03da14e93f4449b29bc016370fba46bbf3312b79d10"
 metafile = true
 
 [[files]]
-file = "mods/mc-dungeons-enchanting.pw.toml"
-hash = "88bf4efd0ffe655af37b409c2f38c67d23817e016ee2df0891fd1de60d0a2588"
-metafile = true
+file = "mods/mcdar-3.0.0.jar"
+hash = "910142d33ed1fe76a14900a6bd42df6994feee51906e070026014ad4ae7a1c49"
+
+[[files]]
+file = "mods/mcde-1.5.3.1-1.20.jar"
+hash = "9f7781cc97dc31e823f164df70bf9a813dc292fbae43702111e5c11b81014493"
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
@@ -2253,6 +2269,11 @@ metafile = true
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "38310e68880b9946384da87488748763ba9d2df4b9db1ff7e0b214ecdd8f1856"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-dungeons-weaponry.pw.toml"
+hash = "a08b11240bc0844f327ac06718e4cadd293d4bc55097ccb21fa8d655c9d43daa"
 metafile = true
 
 [[files]]
@@ -2466,6 +2487,11 @@ hash = "76f61a89e121075d513f9a8980e4aaac5efecb23ef49559a3cc59d086ddb82c7"
 metafile = true
 
 [[files]]
+file = "mods/riskofrainmod.pw.toml"
+hash = "4d39469114ed03f25d2d4a6d88d144a4f8f8a15fdcc21ad67ba9b003b34017e9"
+metafile = true
+
+[[files]]
 file = "mods/river-redux.pw.toml"
 hash = "8e9e58a3a30c9961cba27a7992538f088e7b5da744054007af1ec450753911cd"
 metafile = true
@@ -2521,6 +2547,11 @@ hash = "eb1e82493caee495ac763d0e7f0a668c95c0795cbee217b921e27f1d81d1d402"
 metafile = true
 
 [[files]]
+file = "mods/skeletal-remains.pw.toml"
+hash = "3675e43b07f43959a2af86adeab7ab3ede1e2e2e7d2fc6ba718a1cfb2f54a702"
+metafile = true
+
+[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "21518d0f2d162b8f7de40d46eba3c7daad6c858b8157ec0b8739b62418e7ddc4"
 metafile = true
@@ -2538,6 +2569,11 @@ metafile = true
 [[files]]
 file = "mods/some-assembly-required.pw.toml"
 hash = "eda371ecf088320706a5ab63dc1a2a55d1b73ac7c9054cfc4e99327784840fb8"
+metafile = true
+
+[[files]]
+file = "mods/sons-of-sins-wounds-of-chaos.pw.toml"
+hash = "4a17bfb79fd1e0646912690eeac7e50648f68116b95b8524c894ad65be965a5d"
 metafile = true
 
 [[files]]
@@ -2628,6 +2664,11 @@ metafile = true
 [[files]]
 file = "mods/the-conjurer.pw.toml"
 hash = "e7c7d4f5233ce10edc53b6e4a4aa02e79428b3d7a044b50510b7b8e8e06dd6b3"
+metafile = true
+
+[[files]]
+file = "mods/the-farlanders.pw.toml"
+hash = "18ad3515c0660a4febc21742a0e8aea593d0cbd3bb7afe5abc6926f89f71e3da"
 metafile = true
 
 [[files]]
