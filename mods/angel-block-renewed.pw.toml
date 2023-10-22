@@ -1,13 +1,13 @@
 name = "Angel Block Renewed"
-filename = "angelblockrenewed-fabric-1.3-1.20.jar"
+filename = "angelblockrenewed-forge-1.3-1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rq0QQVDc/versions/T8fjXh3H/angelblockrenewed-fabric-1.3-1.20.jar"
+url = "https://cdn.modrinth.com/data/rq0QQVDc/versions/AMh7314Q/angelblockrenewed-forge-1.3-1.20.jar"
 hash-format = "sha1"
-hash = "d4214d1e7924bbc00c08bdf1bc32d43986722ba1"
+hash = "d5f741b1403657676c63734747f0ca0302340372"
 
 [update]
 [update.modrinth]
 mod-id = "rq0QQVDc"
-version = "T8fjXh3H"
+version = "AMh7314Q"

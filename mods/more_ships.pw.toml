@@ -1,13 +1,13 @@
 name = "more ships"
-filename = "more_ships_1.20.1_4.1.jar"
+filename = "more_ships_1.20.1_4.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CewvovqI/versions/IjwPhle9/more_ships_1.20.1_4.1.jar"
+url = "https://cdn.modrinth.com/data/CewvovqI/versions/l6nZXQa5/more_ships_1.20.1_4.2.jar"
 hash-format = "sha1"
-hash = "f3e0e19a34cca073f8dd1f0331d30e2876243667"
+hash = "75f74f7e427072ad385b7796ee36574943952e36"
 
 [update]
 [update.modrinth]
 mod-id = "CewvovqI"
-version = "IjwPhle9"
+version = "l6nZXQa5"

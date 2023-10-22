@@ -1,13 +1,13 @@
 name = "Handcrafted"
-filename = "handcrafted-forge-1.20.1-3.0.1.jar"
+filename = "handcrafted-forge-1.20.1-3.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pJmCFF0p/versions/GAYpqdwW/handcrafted-forge-1.20.1-3.0.1.jar"
+url = "https://cdn.modrinth.com/data/pJmCFF0p/versions/cW2OAnzC/handcrafted-forge-1.20.1-3.0.3.jar"
 hash-format = "sha1"
-hash = "65205cb9dc729915776045e919799c0c9fcc8947"
+hash = "224ac8dfc9bc5771fc19408d28cacc7bdc4ffced"
 
 [update]
 [update.modrinth]
 mod-id = "pJmCFF0p"
-version = "GAYpqdwW"
+version = "cW2OAnzC"
