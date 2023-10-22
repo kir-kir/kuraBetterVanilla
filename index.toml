@@ -1801,7 +1801,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "453249aae11248f5075f2fe767a8756500a685d7737424465749fa0a766bfd72"
+hash = "3e525794010d6e625d7774dd9c72b4073c57b6e201ac27859039f52068871047"
 metafile = true
 
 [[files]]
@@ -1842,6 +1842,11 @@ metafile = true
 [[files]]
 file = "mods/creepy-creepers.pw.toml"
 hash = "d79be5cca49ae6368e62f1328080e140b956b90d7aae8949eaef0ff0b20d20a1"
+metafile = true
+
+[[files]]
+file = "mods/crimsonsteves-more-mobs.pw.toml"
+hash = "43c5c7c60873cc96d2cf4706e5d34a557f9319a88c7f25f0dc68b566bcaa73b4"
 metafile = true
 
 [[files]]
