@@ -2547,11 +2547,6 @@ hash = "eb1e82493caee495ac763d0e7f0a668c95c0795cbee217b921e27f1d81d1d402"
 metafile = true
 
 [[files]]
-file = "mods/skeletal-remains.pw.toml"
-hash = "3675e43b07f43959a2af86adeab7ab3ede1e2e2e7d2fc6ba718a1cfb2f54a702"
-metafile = true
-
-[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "21518d0f2d162b8f7de40d46eba3c7daad6c858b8157ec0b8739b62418e7ddc4"
 metafile = true
